@@ -20,7 +20,7 @@ body {
 
 .button {
     text-decoration: none;
-    background-color: indianred;
+    background-color: #FF5959;
     padding: 15px 20px;
     color: antiquewhite;
     border-radius: 10px;
@@ -54,4 +54,53 @@ body {
     margin-left: 42%;
     margin-right: 42%;
 
+}
+
+.donate {
+    margin: 10% 25%;
+    border-bottom: 1px solid #DADADA;
+}
+
+.donate-header {
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+
+.donate-description {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.donate-amount {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.amount {
+    color: #707070;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+    padding: 30px 20px;
+}
+
+#color {
+    color: #FF5959;
+    background-color: #FFEEEE;
+    border: 2px solid #FF5959;
+}
+
+#other-amount {
+    color: #B3B3B3;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.second-btn {
+    text-align: center;
+    margin-top: -100px;
+    padding-bottom: 70px;
 }
