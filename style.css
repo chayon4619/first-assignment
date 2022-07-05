@@ -120,3 +120,41 @@ body {
     padding-right: 25%;
     padding-bottom: 30px;
 }
+
+.card {
+    display: flex;
+    margin: 30px 150px;
+}
+
+.card-1 {
+    border: 1px;
+    text-align: left;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 60px 20px;
+    font-size: 15px;
+    color: #707070;
+}
+
+.card-1 img {
+    width: 15%;
+    padding-bottom: 30px;
+}
+
+.card-header {
+    color: #121212;
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+
+#food-card {
+    background-color: rgba(79, 157, 166, 0.1);
+}
+
+#card-shelter {
+    background-color: rgba(255, 89, 89, 0.1);
+}
+
+#card-education {
+    background-color: #FFFACD;
+}
