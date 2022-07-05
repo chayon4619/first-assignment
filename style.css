@@ -113,7 +113,7 @@ body {
     padding: 20px;
 }
 
-#flood {
+.flood {
     color: #707070;
     text-align: center;
     padding-left: 25%;
@@ -157,4 +157,35 @@ body {
 
 #card-education {
     background-color: #FFFACD;
+}
+
+.people-live {
+    display: flex;
+    margin: 150px;
+
+}
+
+.people-live img {
+    width: 450px;
+    height: 460px;
+    padding-right: 50px;
+
+}
+
+#live {
+    font-size: 45px;
+    font-weight: 700;
+
+}
+
+#live-description {
+    font-weight: 400;
+    font-size: 15px;
+    color: #707070;
+    padding-right: 30px;
+    padding-bottom: 40px;
+}
+
+.people {
+    padding: 30px;
 }
