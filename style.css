@@ -162,8 +162,6 @@ body {
 .people-live {
     display: flex;
     margin: 150px;
-
-
 }
 
 .people-live img {
@@ -171,14 +169,11 @@ body {
     height: 460px;
     padding-right: 50px;
     border-radius: 10px;
-
-
 }
 
 #live {
     font-size: 45px;
     font-weight: 700;
-
 }
 
 #live-description {
@@ -191,4 +186,20 @@ body {
 
 .people {
     padding: 30px;
+}
+
+.updates {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#updates {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+#contact {
+    color: #707070;
+    font-weight: 400;
+    font-size: 18px;
 }
